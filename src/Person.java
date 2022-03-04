@@ -4,9 +4,9 @@ public class Person {
     private String firstName;
     private String lastName;
 
-    public Person(String firstName, String lastName) {
+    public Person(String firstName, String lastNamee) {
         this.firstName = firstName;
-        this.lastName = lastName;
+        this.lastName = lastNamee;
     }
 
     // Client client1 = new Client1("John", "Smith")
